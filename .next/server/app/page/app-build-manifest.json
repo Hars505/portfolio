@@ -1,0 +1,22 @@
+{
+  "pages": {
+    "/page": [
+      "static/chunks/[root-of-the-server]__2fa45e6e._.css",
+      "static/chunks/e8037_5cc60a42._.js",
+      "static/chunks/Project_portfolio_app_layout_tsx_f2b7c07c._.js",
+      "static/chunks/e8037_next_dist_client_components_builtin_global-error_93b57c96.js",
+      "static/chunks/Project_portfolio_77a2e662._.js",
+      "static/chunks/e8037_4acf908f._.js",
+      "static/chunks/Project_portfolio_app_page_tsx_93b57c96._.js",
+      "static/chunks/[turbopack]_browser_dev_hmr-client_hmr-client_ts_05ebf0a0._.js",
+      "static/chunks/e8037_next_dist_compiled_react-dom_05d439c1._.js",
+      "static/chunks/e8037_next_dist_compiled_next-devtools_index_bc47702f.js",
+      "static/chunks/e8037_next_dist_compiled_dce6c9e5._.js",
+      "static/chunks/e8037_next_dist_client_c0d2e093._.js",
+      "static/chunks/e8037_next_dist_754a163f._.js",
+      "static/chunks/e8037_@swc_helpers_cjs_2b18f336._.js",
+      "static/chunks/Project_portfolio_a0ff3932._.js",
+      "static/chunks/turbopack-Project_portfolio_356d438d._.js"
+    ]
+  }
+}
